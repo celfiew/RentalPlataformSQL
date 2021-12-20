@@ -1,6 +1,4 @@
-# RentalPlataformSQL
-
-# SQLDatabaseSpotify :card_index:
+# RentalPlataformSQL :card_index:
 
 ### MySQL:
 
